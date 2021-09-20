@@ -9,4 +9,4 @@ Linear regression model seemed to be the most common method to predict the follo
 Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. A Random Forest operates by constructing several decision trees during training time and outputting the mean of the classes as the prediction of all the trees.
 
 ## Conclusion
-By comparing the accuracy of two methods, random forest regression came out to be more accurate than linear regression method. Therefore, I saved the predicition of random forest regression model and submitted to the kaggle.
+By comparing the accuracy of two methods, random forest regression came out to be more accurate than linear regression method. Therefore, I saved the predicition of random forest regression model to 'sample submission3.csv' and submitted to the kaggle.
